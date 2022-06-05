@@ -1,0 +1,137 @@
+id: IF924319E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:10:02.587567'
+last_modified: '2022-06-05T20:10:02.587571'
+parser: null
+source_metadata:
+  title: Tertön Sogyal Series
+  language: pt
+  description: 'Texts by and about the famous treasure-revealer and teacher of the
+    Thirteenth Dalai Lama, Tertön Sogyal Lerab Lingpa (gter ston bsod rgyal las rab
+    gling pa, 1856-1926):'
+  volume:
+    fD38B:
+      title: Advice from the Lips of Tertön Sogyal
+      base_file: fD38B.txt
+      order: 1
+      parent: Advice
+    f089A:
+      title: From the Oral Tradition of the Lama of Nyarong
+      base_file: f089A.txt
+      order: 2
+      parent: Advice
+    fC6AA:
+      title: Prayer for the Flourishing of the Teachings
+      base_file: fC6AA.txt
+      order: 3
+      parent: Aspiration Prayers
+    f3EE8:
+      title: Brief Prayer for Pacifying the Turmoil of the Mamos
+      base_file: f3EE8.txt
+      order: 4
+      parent: Dharma Protectors
+    f7277:
+      title: Serkyem (Golden Libation) Offering to the Guardians of the Tradition
+      base_file: f7277.txt
+      order: 5
+      parent: Dharma Protectors
+    f8F1E:
+      title: Brief Explanation of Clarification and Transcendental Resolution from
+        the Oral Tradition of Nyala Sogyal
+      base_file: f8F1E.txt
+      order: 6
+      parent: Dzogchen
+    fACFC:
+      title: Guru Yoga
+      base_file: fACFC.txt
+      order: 7
+      parent: Guru Yoga
+    fC8F8:
+      title: The Guru Yoga of the Profound Path
+      base_file: fC8F8.txt
+      order: 8
+      parent: Guru Yoga
+    f50CA:
+      title: A Vajrakīla Lineage Prayer
+      base_file: f50CA.txt
+      order: 9
+      parent: Lineage Prayers
+    f6C24:
+      title: 'The Sweet Song of Māra''s Defeat: A Prayer for the Long Life of the
+        Great Tertön and Vidyādhara Lerab Lingpa'
+      base_file: f6C24.txt
+      order: 10
+      parent: Long Life Prayers
+    f8E8F:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      base_file: f8E8F.txt
+      order: 11
+      parent: Prayers
+    f476E:
+      title: Sādhana of Mañjughoṣa
+      base_file: f476E.txt
+      order: 12
+      parent: Sādhanas
+    f8E51:
+      title: The Method to Pacify All Epidemics, Illnesses and Pandemics from the
+        Sixty Solitary Forms of Yamāntaka
+      base_file: f8E51.txt
+      order: 13
+      parent: Sādhanas
+    fBD44:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      base_file: fBD44.txt
+      order: 14
+      parent: Sādhanas
+    fB46A:
+      title: A Lamenting Plea for Compassion
+      base_file: fB46A.txt
+      order: 15
+      parent: Songs
+    f6FF0:
+      title: A Synopsis of the Vajra-Guru Mantra
+      base_file: f6FF0.txt
+      order: 16
+      parent: Vajra Guru Mantra
+    f9B48:
+      title: 'Inventory: The Perfectly Clear Mirror from the Razor of the Innermost
+        Essence'
+      base_file: f9B48.txt
+      order: 17
+      parent: Vajrakīla
+    fCCFD:
+      title: 'The Falling Rain of Blessings: A Prayer of Inspiration'
+      base_file: fCCFD.txt
+      order: 18
+      parent: Vajrakīla
+    f8751:
+      title: The Summoning of Blessings which Brings them Swift and Fast
+      base_file: f8751.txt
+      order: 19
+      parent: Vajrakīla
+    f660C:
+      title: The Ultimate, Natural Dispeller of Obstacles
+      base_file: f660C.txt
+      order: 20
+      parent: Vajrakīla
+    f8EC7:
+      title: The Wisdom Mind Practice of One Kīla
+      base_file: f8EC7.txt
+      order: 21
+      parent: Vajrakīla
+    fE5BA:
+      title: The Twenty-Eight Commitments
+      base_file: fE5BA.txt
+      order: 22
+      parent: Tantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
